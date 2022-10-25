@@ -1,8 +1,3 @@
-
-
-
-
-let mode = "Fighter"
 let tool = new Tool("Katana")
 tool.model = 3441
 
